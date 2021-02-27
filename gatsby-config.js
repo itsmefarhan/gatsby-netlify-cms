@@ -11,6 +11,13 @@ module.exports = {
         path: "src/blog",
       },
     },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "pageData",
+        path: "src/pageData",
+      },
+    },
     // to parse the Markdown data and front matter and add this information to the GraphQL schema
     "gatsby-transformer-remark",
   ],
