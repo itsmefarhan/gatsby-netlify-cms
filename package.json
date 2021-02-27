@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.23.7",
+    "gatsby": "^2.32.8",
     "gatsby-plugin-netlify-cms": "^4.10.0",
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-remark": "^2.16.1",

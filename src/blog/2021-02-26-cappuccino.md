@@ -1,6 +1,7 @@
 ---
 title: Cappuccino
 date: 2021-02-26T19:10:00.451Z
+contentKey: blog
 ---
 ![](/img/cappuccino.jpg)
 

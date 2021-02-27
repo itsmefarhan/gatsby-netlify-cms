@@ -1,6 +1,7 @@
 ---
 title: Americano
 date: 2021-02-20T07:16:00.000Z
+contentKey: blog
 ---
 ![](/img/americano.jpeg)
 
